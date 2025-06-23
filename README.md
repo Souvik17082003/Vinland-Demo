@@ -1,2 +1,2 @@
-# Vinland-Demo
-This is my first repository 
+# Vinland-demo
+This is my first Git Repository 
