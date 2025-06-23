@@ -1,4 +1,4 @@
 # Vinland-demo
 This is my first Git Repository 
 <br>
-Author- Souvik Roy
+Author- Souvik (Warrior)
